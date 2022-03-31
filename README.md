@@ -8,5 +8,10 @@ In an effort to do this, I need to identify some areas and periods of interest v
 - Pandas and numpy 
 - Matplotlib and seabon for visualization
 
+## TASKS DONE
+- Data cleaning 
+- Exploratory data analysis 
+- Hypothesis testing
+
 ## LANGUAGE
 Python
